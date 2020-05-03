@@ -1,0 +1,24 @@
+﻿빌드 시작: 2020-01-30 오후 12:40:33
+     1>2 노드의 "C:\Users\PC-01\Documents\Visual Studio 2012\Projects\c++_1_29\c++_1_29\c++_1_29.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt MyCar.cpp
+         MyCar.cpp
+     1>c:\users\pc-01\documents\visual studio 2012\projects\c++_1_29\c++_1_29\mycar.cpp(11): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\pc-01\documents\visual studio 2012\projects\c++_1_29\c++_1_29\mycar.cpp(15): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\pc-01\documents\visual studio 2012\projects\c++_1_29\c++_1_29\mycar.cpp(19): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : 'strcpy' 선언을 참조하십시오.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\PC-01\Documents\Visual Studio 2012\Projects\c++_1_29\Debug\c++_1_29.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\PC-01\Documents\Visual Studio 2012\Projects\c++_1_29\Debug\c++_1_29.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\PC-01\Documents\Visual Studio 2012\Projects\c++_1_29\Debug\c++_1_29.lib" /MACHINE:X86 Debug\1_29.obj
+         Debug\1_30.obj
+         Debug\MyCar.obj
+         Debug\MyCar2.obj
+         Debug\MyCard.obj
+         Debug\Point.obj
+         c++_1_29.vcxproj -> C:\Users\PC-01\Documents\Visual Studio 2012\Projects\c++_1_29\Debug\c++_1_29.exe
+     1>"C:\Users\PC-01\Documents\Visual Studio 2012\Projects\c++_1_29\c++_1_29\c++_1_29.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.55
